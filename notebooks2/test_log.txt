@@ -1,0 +1,134 @@
+BTagCSV split ratio 0.5
+BTagCSV_accuracy is 0.65735768049 BTagCSV_auc is 0.567512274959 BTagCSV_goodbad ratio is 0.3331720690211256
+BTagCSV split ratio 1
+BTagCSV_accuracy is 0.536663979988 BTagCSV_auc is 0.580850875457 BTagCSV_goodbad ratio is 0.5
+BTagCSV split ratio 3
+BTagCSV_accuracy is 0.75251914565 BTagCSV_auc is 0.56950829511 BTagCSV_goodbad ratio is 0.75
+BTagCSV split ratio 5
+BTagCSV_accuracy is 0.831542181591 BTagCSV_auc is 0.563253227797 BTagCSV_goodbad ratio is 0.8333333333333334
+BTagMu split ratio 0.5
+BTagMu_accuracy is 0.675438596491 BTagMu_auc is 0.594435591921 BTagMu_goodbad ratio is 0.33322368421052634
+BTagMu split ratio 1
+BTagMu_accuracy is 0.566967955455 BTagMu_auc is 0.611248648649 BTagMu_goodbad ratio is 0.5
+BTagMu split ratio 3
+BTagMu_accuracy is 0.782983970407 BTagMu_auc is 0.644577333931 BTagMu_goodbad ratio is 0.75
+BTagMu split ratio 5
+BTagMu_accuracy is 0.848177583079 BTagMu_auc is 0.618163296417 BTagMu_goodbad ratio is 0.8333333333333334
+Charmonium split ratio 0.5
+Charmonium_accuracy is 0.669634024951 Charmonium_auc is 0.584954852971 Charmonium_goodbad ratio is 0.3331354800415492
+Charmonium split ratio 1
+Charmonium_accuracy is 0.575982207718 Charmonium_auc is 0.60435671422 Charmonium_goodbad ratio is 0.5
+Charmonium split ratio 3
+Charmonium_accuracy is 0.770114942551 Charmonium_auc is 0.618805636088 Charmonium_goodbad ratio is 0.75
+Charmonium split ratio 5
+Charmonium_accuracy is 0.838071693434 Charmonium_auc is 0.653871827044 Charmonium_goodbad ratio is 0.8333333333333334
+DisplacedJet split ratio 0.5
+DisplacedJet_accuracy is 0.660098524282 DisplacedJet_auc is 0.588855721393 DisplacedJet_goodbad ratio is 0.3331362695832102
+DisplacedJet split ratio 1
+DisplacedJet_accuracy is 0.566469719086 DisplacedJet_auc is 0.615123481039 DisplacedJet_goodbad ratio is 0.5
+DisplacedJet split ratio 3
+DisplacedJet_accuracy is 0.778064992791 DisplacedJet_auc is 0.640577044498 DisplacedJet_goodbad ratio is 0.75
+DisplacedJet split ratio 5
+DisplacedJet_accuracy is 0.846343265294 DisplacedJet_auc is 0.665548894497 DisplacedJet_goodbad ratio is 0.8333333333333334
+DoubleEG split ratio 0.5
+DoubleEG_accuracy is 0.653846159741 DoubleEG_auc is 0.589279087812 DoubleEG_goodbad ratio is 0.3330581923235658
+DoubleEG split ratio 1
+DoubleEG_accuracy is 0.515463917833 DoubleEG_auc is 0.597965811966 DoubleEG_goodbad ratio is 0.5
+DoubleEG split ratio 3
+DoubleEG_accuracy is 0.762886598061 DoubleEG_auc is 0.659470256188 DoubleEG_goodbad ratio is 0.75
+DoubleEG split ratio 5
+DoubleEG_accuracy is 0.827491409344 DoubleEG_auc is 0.629629323239 DoubleEG_goodbad ratio is 0.8333333333333334
+DoubleMuon split ratio 0.5
+DoubleMuon_accuracy is 0.688436830452 DoubleMuon_auc is 0.550373303832 DoubleMuon_goodbad ratio is 0.3332797686003535
+DoubleMuon split ratio 1
+DoubleMuon_accuracy is 0.598393573771 DoubleMuon_auc is 0.639077620994 DoubleMuon_goodbad ratio is 0.5
+DoubleMuon split ratio 3
+DoubleMuon_accuracy is 0.760240964047 DoubleMuon_auc is 0.626667100271 DoubleMuon_goodbad ratio is 0.75
+DoubleMuon split ratio 5
+DoubleMuon_accuracy is 0.842302543587 DoubleMuon_auc is 0.632787661612 DoubleMuon_goodbad ratio is 0.8333333333333334
+DoubleMuonLowMass split ratio 0.5
+DoubleMuonLowMass_accuracy is 0.650557621704 DoubleMuonLowMass_auc is 0.694324385805 DoubleMuonLowMass_goodbad ratio is 0.33314700950251536
+DoubleMuonLowMass split ratio 1
+DoubleMuonLowMass_accuracy is 0.709497202375 DoubleMuonLowMass_auc is 0.729145854146 DoubleMuonLowMass_goodbad ratio is 0.5
+DoubleMuonLowMass split ratio 3
+DoubleMuonLowMass_accuracy is 0.75279329509 DoubleMuonLowMass_auc is 0.729993160055 DoubleMuonLowMass_goodbad ratio is 0.75
+DoubleMuonLowMass split ratio 5
+DoubleMuonLowMass_accuracy is 0.855679701049 DoubleMuonLowMass_auc is 0.743322981366 DoubleMuonLowMass_goodbad ratio is 0.8333333333333334
+HTMHT split ratio 0.5
+HTMHT_accuracy is 0.681710214626 HTMHT_auc is 0.69012969013 HTMHT_goodbad ratio is 0.333095577746077
+HTMHT split ratio 1
+HTMHT_accuracy is 0.666666664648 HTMHT_auc is 0.736311825768 HTMHT_goodbad ratio is 0.5
+HTMHT split ratio 3
+HTMHT_accuracy is 0.784313725384 HTMHT_auc is 0.75388595631 HTMHT_goodbad ratio is 0.75
+HTMHT split ratio 5
+HTMHT_accuracy is 0.846108140049 HTMHT_auc is 0.750292400487 HTMHT_goodbad ratio is 0.8333333333333334
+JetHT split ratio 0.5
+JetHT_accuracy is 0.652257445165 JetHT_auc is 0.638951867834 JetHT_goodbad ratio is 0.3332372441625829
+JetHT split ratio 1
+JetHT_accuracy is 0.580691644025 JetHT_auc is 0.61092379329 JetHT_goodbad ratio is 0.5
+JetHT split ratio 3
+JetHT_accuracy is 0.802593659942 JetHT_auc is 0.656632435913 JetHT_goodbad ratio is 0.75
+JetHT split ratio 5
+JetHT_accuracy is 0.85542747364 JetHT_auc is 0.638054017774 JetHT_goodbad ratio is 0.8333333333333334
+MET split ratio 0.5
+MET_accuracy is 0.71311474563 MET_auc is 0.730771794188 MET_goodbad ratio is 0.33278553820870993
+MET split ratio 1
+MET_accuracy is 0.680327867875 MET_auc is 0.755742439687 MET_goodbad ratio is 0.5
+MET split ratio 3
+MET_accuracy is 0.812307690535 MET_auc is 0.784334120999 MET_goodbad ratio is 0.75
+MET split ratio 5
+MET_accuracy is 0.84952120489 MET_auc is 0.791457749904 MET_goodbad ratio is 0.8333333333333334
+MuonEG split ratio 0.5
+MuonEG_accuracy is 0.68451801369 MuonEG_auc is 0.561489733508 MuonEG_goodbad ratio is 0.3331872626351154
+MuonEG split ratio 1
+MuonEG_accuracy is 0.540875914236 MuonEG_auc is 0.588797825864 MuonEG_goodbad ratio is 0.5
+MuonEG split ratio 3
+MuonEG_accuracy is 0.783862723839 MuonEG_auc is 0.610284966894 MuonEG_goodbad ratio is 0.75
+MuonEG split ratio 5
+MuonEG_accuracy is 0.828425407714 MuonEG_auc is 0.608397785676 MuonEG_goodbad ratio is 0.8333333333333334
+MuOnia split ratio 0.5
+MuOnia_accuracy is 0.663376112799 MuOnia_auc is 0.625622950396 MuOnia_goodbad ratio is 0.3332839359810314
+MuOnia split ratio 1
+MuOnia_accuracy is 0.579999999912 MuOnia_auc is 0.645076821773 MuOnia_goodbad ratio is 0.5
+MuOnia split ratio 3
+MuOnia_accuracy is 0.762592592681 MuOnia_auc is 0.67781619188 MuOnia_goodbad ratio is 0.75
+SingleElectron split ratio 0.5
+SingleElectron_accuracy is 0.667779636701 SingleElectron_auc is 0.513128140704 SingleElectron_goodbad ratio is 0.3331663326653307
+SingleElectron split ratio 1
+SingleElectron_accuracy is 0.518147684084 SingleElectron_auc is 0.584695580173 SingleElectron_goodbad ratio is 0.5
+SingleElectron split ratio 3
+SingleElectron_accuracy is 0.740300375768 SingleElectron_auc is 0.575185611423 SingleElectron_goodbad ratio is 0.75
+SingleElectron split ratio 5
+SingleElectron_accuracy is 0.82888146812 SingleElectron_auc is 0.599288924913 SingleElectron_goodbad ratio is 0.8333333333333334
+SingleMuon split ratio 0.5
+SingleMuon_accuracy is 0.670769228385 SingleMuon_auc is 0.556493320611 SingleMuon_goodbad ratio is 0.3332307692307692
+SingleMuon split ratio 1
+SingleMuon_accuracy is 0.554957725148 SingleMuon_auc is 0.568148253674 SingleMuon_goodbad ratio is 0.5
+SingleMuon split ratio 3
+SingleMuon_accuracy is 0.740868896693 SingleMuon_auc is 0.590488282243 SingleMuon_goodbad ratio is 0.75
+SingleMuon split ratio 5
+SingleMuon_accuracy is 0.831837990228 SingleMuon_auc is 0.581698861288 SingleMuon_goodbad ratio is 0.8333333333333334
+SinglePhoton split ratio 0.5
+SinglePhoton_accuracy is 0.717013888889 SinglePhoton_auc is 0.621884374148 SinglePhoton_goodbad ratio is 0.33324641460234683
+SinglePhoton split ratio 1
+SinglePhoton_accuracy is 0.602864583333 SinglePhoton_auc is 0.65570679634 SinglePhoton_goodbad ratio is 0.5
+SinglePhoton split ratio 3
+SinglePhoton_accuracy is 0.777198696214 SinglePhoton_auc is 0.708582436562 SinglePhoton_goodbad ratio is 0.75
+SinglePhoton split ratio 5
+SinglePhoton_accuracy is 0.846655081398 SinglePhoton_auc is 0.683802786428 SinglePhoton_goodbad ratio is 0.8333333333333334
+Tau split ratio 0.5
+Tau_accuracy is 0.661341856653 Tau_auc is 0.655650700205 Tau_goodbad ratio is 0.33285302593659943
+Tau split ratio 1
+Tau_accuracy is 0.633093524608 Tau_auc is 0.682282558675 Tau_goodbad ratio is 0.5
+Tau split ratio 3
+Tau_accuracy is 0.74700239994 Tau_auc is 0.651864209104 Tau_goodbad ratio is 0.75
+Tau split ratio 5
+Tau_accuracy is 0.840927257908 Tau_auc is 0.634172216936 Tau_goodbad ratio is 0.8333333333333334
+ZeroBias split ratio 0.5
+ZeroBias_accuracy is 0.645933004658 ZeroBias_auc is 0.520520520521 ZeroBias_goodbad ratio is 0.3326133909287257
+ZeroBias split ratio 1
+ZeroBias_accuracy is 0.458781361687 ZeroBias_auc is 0.550237260161 ZeroBias_goodbad ratio is 0.5
+ZeroBias split ratio 3
+ZeroBias_accuracy is 0.766606823332 ZeroBias_auc is 0.621984351228 ZeroBias_goodbad ratio is 0.75
+ZeroBias split ratio 5
+ZeroBias_accuracy is 0.822754491446 ZeroBias_auc is 0.612353662395 ZeroBias_goodbad ratio is 0.8333333333333334
